@@ -1,4 +1,5 @@
-# Учебный проект Абкадыров Э. П.
+# Учебный проект 
+# Абкадыров Э. П.
 
 Ссылка на [colab](https://colab.research.google.com/drive/1egT0pjR6R9yBLJ8KDRJCfWvyNdG5HgHP#scrollTo=G3NPCLzmkBLa)
 
